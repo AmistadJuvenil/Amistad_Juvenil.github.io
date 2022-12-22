@@ -1,0 +1,47 @@
+
+.contenedor{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cont1{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.cont2{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+
+.img-arg{
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-position-y: 0;
+    background-image: 
+    url("../argentina.png");
+    background-position: center center;
+    
+}
+.img-per{
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-position-y: 0;
+    background-image: 
+    url("../peru.png");
+    background-position: center center;
+    display: block;
+}
+
+.paises{
+    align-items: center;
+    flex-direction: column;
+}
